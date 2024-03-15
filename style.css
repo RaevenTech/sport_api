@@ -1,0 +1,13 @@
+body {
+  margin: 0em;
+  user-select: none;
+  box-sizing: border-box;
+
+}
+
+.bg_img {
+  background-image: url(images/sport_background.jpg);
+  background-repeat: no-repeat;
+  width: 99vw;
+  height: 100vh;
+}
